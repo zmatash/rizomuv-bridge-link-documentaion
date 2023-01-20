@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: RizomUV Bridge - Link Edition
+
+theme:
+  name: material
