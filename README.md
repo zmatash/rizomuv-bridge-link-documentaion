@@ -1,1 +1,1 @@
-# rizomuv-bridge-link-documentaion
+https://zmatash.github.io/rizomuv-bridge-link-documentaion/
