@@ -2,3 +2,5 @@ site_name: RizomUV Bridge - Link Edition
 
 theme:
   name: material
+  palette:
+    scheme: slate
